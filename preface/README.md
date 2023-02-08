@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Screenshot 2023-02-08 at 08.43.47.png
+coverY: 0
+---
+
 # Preface
 
 {% content-ref url="foreward-from-the-executive-mayor.md" %}
