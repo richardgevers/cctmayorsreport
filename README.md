@@ -1,6 +1,6 @@
 ---
 description: December 2022
-layout: landing
+layout: editorial
 ---
 
 # Infrastructure Report
