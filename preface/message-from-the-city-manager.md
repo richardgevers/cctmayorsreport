@@ -1,6 +1,6 @@
 # Message from the City Manager
 
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption><p><strong>Lungelo Mbandazayo - CCT City Manager</strong></p></figcaption></figure>
 
 This report is the culmination of years of work that I have personally overseen and driven across the administration. This work has been behind the scenes, building the systems and processes necessary to be able to assess the full suite of infrastructure plans across the organisation, not just for the next year or even five-year term of office, but for the long term.
 
@@ -16,6 +16,8 @@ This report shows that in the main, the City of Cape Town has robust long-term i
 
 Capetonians can read this report and rest assured that this administration is actively planning for the future and doing what we need to today to create a City of Hope.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
-Lungelo Mbandazayo
+**Lungelo Mbandazayo**
+
+_City Manager_

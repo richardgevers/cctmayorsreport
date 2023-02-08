@@ -25,8 +25,6 @@ The City’s 12 water treatment plants have a total design capacity of 1 655 Ml/
 
 The following capacity constraints and risks are noted with regard to the City’s water treatment plants (see annexure C:4 for further details):
 
-
-
 * A total of five water treatment plants currently have no surplus capacity during peak demand.
 * The Voëlvlei and Wemmershoek water treatment plants cannot shut down for extended periods due to capacity constraints, meaning that much-needed routine maintenance activities cannot be carried out.
 * The Blackheath and Faure water treatment plants are fed directly from Theewaterskloof Dam via the Riviersonderend tunnel system. In the event of the tunnel failing, or being out of operation for extended periods, the City would lose approximately 40% to 50% of its water treatment capacity as well as the ability to access approximately 45% of its current usable allocation of surface water resources.
@@ -65,12 +63,13 @@ In anticipation of this legislation, three bio-solid beneficiation facilities (B
 
 ## Bulk sewer and pump stations
 
-Cape Town has 487 sewerage pump stations and\
-9 615 km of sewerage network. A package of work has been developed by the City as part of the MPP, with the objective of reducing the frequency, duration and impact of sewage spills, and improving the response time to address spillages. As part of this, a conditional assessment of pump stations was undertaken by the City, which noted the following:
+Cape Town has 487 sewerage pump stations and 9 615 km of sewerage network. A package of work has been developed by the City as part of the MPP, with the objective of reducing the frequency, duration and impact of sewage spills, and improving the response time to address spillages. As part of this, a conditional assessment of pump stations was undertaken by the City, which noted the following:
 
 * In areas of high density and increasing informality, frequent blocking of sewers with foreign objects resulted in sewer spills.
 * A total of 25 of the City’s pump stations have insufficient capacity (see annexure C:7 for further details).
 * The Rietvlei pump station, upstream of the Bellville WWTWs, requires upgrading of its rising main and gravity system \[**footnote 1**] to accommodate developments in the Bellville WWTWs catchment. This project will take approximately three to four years to complete.
+
+![](<../.gitbook/assets/image (25).png>)
 
 Challenges to maintenance in the sewerage reticulation network are mainly due to the following:
 
@@ -97,4 +96,4 @@ to effectively manage flooding, pollution and inform the Water and Sanitation Di
 
 Approximately 78,4% of the underground drainage system presents a high risk to water quality in the catchment as the system conveys illicit polluted discharges to the rivers. Illicit discharges include flow from informal settlements, backyarder dwellings, sewer reticulation and pump station spills that occur either directly into the stormwater system or are transported there via roads.
 
-\[1] _In certain parts of the system, water moves through pipes by means of gravity, but in other parts where pipes run vertically, water needs to be pumped via a pump station in order to move through the system._
+\[**1**] _In certain parts of the system, water moves through pipes by means of gravity, but in other parts where pipes run vertically, water needs to be pumped via a pump station in order to move through the system._

@@ -1,8 +1,10 @@
 # Conclusion
 
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 The 2022 Infrastructure Report is the first consolidated attempt to evaluate the City’s infrastructure delivery plans across sectors for the next 10 years, taking into account the current status and future outlook. This first report was limited to evaluation of the City’s bulk infrastructure across the Energy, Urban Waste Management, Water and Sanitation, Human Settlements and Urban Mobility directorates only. It lays the foundation for future, deeper analysis across the City’s full infrastructure portfolio, including additional infrastructure typologies such as community facilities, reticulation and distribution infrastructure, environmental infrastructure, etc.
 
-Future iterations of this report may also include other aspects, such as reviews of infrastructure requirements related to precincts or areas (location-based analysis) or on specific typologies of infrastructure (thematic- based analysis).
+Future iterations of this report may also include other aspects, such as reviews of infrastructure requirements related to precincts or areas (location-based analysis) or on specific typologies of infrastructure (thematic-based analysis).
 
 A key takeaway from the analysis of the portfolio is the importance of long-term or master planning and its role in informing efficient and effective long-term infrastructure planning. Adequate master planning should be prioritised across the City and should form the basis from which the integrated portfolio is developed in each of the City’s directorates.
 

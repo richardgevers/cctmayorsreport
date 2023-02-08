@@ -18,7 +18,7 @@
 
 ## Annexure C:5 The state of the City’s wastewater treatment works
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Note: The above table is based on design average dry weather flow capacity constraints and is not inclusive of nutrient- load capacity constraints.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Note: The above table is based on design average dry weather flow capacity constraints and is not inclusive of nutrient- load capacity constraints.</p></figcaption></figure>
 
 ## Annexure C:6 Details of the three bio-solid beneficiation facilities (BBFs) planned by the City
 
@@ -30,7 +30,7 @@
 
 ## Annexure C:8 Status of stormwater master plans across Cape Town’s 21 catchment areas
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Annexure C:9 Capital commitments in the New Water Plan over the 10-year period from 2019-2029
 
@@ -38,7 +38,7 @@
 
 ## Annexure C:10 Planned projects in the City’s bulk water augmentation scheme
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Annexure C:11 Planned projects in the City’s Voëlvlei-to-Glengarry transfer scheme
 
@@ -50,7 +50,7 @@
 
 ## Annexure C:13 Water and Sanitation Directorate planned replacement and refurbishment projects to respond to identified constraints and backlogs at City’s wastewater treatment works
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Annexure C:14 Water and Sanitation Directorate wastewater new and upgrade projects by initiative description over the 10-year period from 2022 to 2031
 

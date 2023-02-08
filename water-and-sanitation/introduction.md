@@ -1,6 +1,6 @@
 # Introduction
 
-The City is responsible for the reticulation, treatment and provision of water to residents of Cape Town, while National Government, through the Department of Water and Sanitation, is responsible for bulk water supply and infrastructure. Cape Town is part of the Western Cape Water Supply System (WCWSS), which gets its water from six major rain-fed dams.
+**The City is responsible for the reticulation, treatment and provision of water to residents of Cape Town, while National Government, through the Department of Water and Sanitation, is responsible for bulk water supply and infrastructure. Cape Town is part of the Western Cape Water Supply System (WCWSS), which gets its water from six major rain-fed dams.**
 
 The City is also responsible for the provision of sanitation services in the metro. This includes developing and maintaining an extensive network of sewers and\
 pump stations to safely pipe wastewater to the City’s wastewater treatment works.

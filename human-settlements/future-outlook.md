@@ -7,7 +7,7 @@ In response to the above, the Human Settlements Directorate has committed to the
 
 Future developments Cape Town will be focused on the urban inner core, incremental growth areas and consolidation areas, with additional projects being located along transport corridors. This is in line with the MSDF and Priority Human Settlements and Housing Development Area as gazetted by the National Human Settlements Department. Figure 13 shows the areas identified for human settlements investment within the catalytic investment area. These projects consist of a mixture of housing typologies (see annexure D:1 for further details).
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Figure 13: Prioritised Human Settlement Areas</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Figure 13: Prioritised Human Settlement Areas</p></figcaption></figure>
 
 The Human Settlements’ planned capital spending over the next 10 years increases steadily in the first five years from 2022 to 2026 and then again from 2027 to 2031 due to the Human Settlements sector’s reliance on grant funding cycles.
 
@@ -52,6 +52,8 @@ The prevalence of backyard dwellers will increase in line with the growing need 
 {% hint style="info" %}
 Backyarder refers to a person occupying a backyard residential unit under some type of rental agreement with the main homeowner or City tenant. The backyard unit is a structure constructed of any material, intended or used for human habitation, on the same residential property as a main dwelling, built according to approved plans (formal) or no approved plans (informal backyard), and is therefore not categorised as an informal settlement.
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Informal settlements
 

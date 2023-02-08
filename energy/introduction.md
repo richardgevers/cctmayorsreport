@@ -1,6 +1,6 @@
 # Introduction
 
-Energy is a primary input into the daily lives of Capetonians and an enabler of local economic development. Providing access to secure energy is critical to ensuring that residents and the economy in Cape Town can prosper and thrive.
+**Energy is a primary input into the daily lives of Capetonians and an enabler of local economic development. Providing access to secure energy is critical to ensuring that residents and the economy in Cape Town can prosper and thrive.**
 
 Some areas in Cape Town are supplied with electricity directly by Eskom and others by the City, as shown in figure 2. The supply areas are established under the National Electricity Regulation Act via the National Energy Regulator of South Africa (Nersa) issued distribution licences. The Eskom distribution licence defines the Eskom supply area within Cape Town, and the City’s distribution licence defines the City’s supply area. Each licensee has exclusive authority to supply electricity and operate electricity networks in their supply area.
 
@@ -34,23 +34,15 @@ For customers who receive a pensioner or disabled persons rebate in terms of the
 
 Currently, the City is able to shield residents from up to two stages of load-shedding. It is undertaking several initiatives to further protect residents and end load-shedding in Cape Town over time. These include:
 
-•       Increasing the availability of dispatchable energy to limit the immediate impact of load-shedding via: › the Steenbras hydro pumped storage optimisation;
-
-›    the dispatchable independent power producers (IPP) programme; and
-
-›    developing a City battery energy storage systems (BESS) roadmap.
-
-•       Increasing installed capacity more generally to reduce load-shedding over time via: ›        the City-initiated embedded generation;
-
-›    the large-scale independent power producers programme;
-
-&#x20;     ›       customer-initiated embedded generation; and
-
-&#x20;     ›      wheeling[^1].
-
-•       Enabling an incentivised demand response from customers, via:
-
-›    the Power Hero Programme (third-party demand response aggregators).\
+* Increasing the availability of dispatchable energy to limit the immediate impact of load-shedding via: › the Steenbras hydro pumped storage optimisation;
+  * the dispatchable independent power producers (IPP) programme; and
+  * developing a City battery energy storage systems (BESS) roadmap.
+* Increasing installed capacity more generally to reduce load-shedding over time via: ›        the City-initiated embedded generation;
+* the large-scale independent power producers programme;
+  * customer-initiated embedded generation; and
+  * wheeling[^1].
+* Enabling an incentivised demand response from customers, via:
+  * the Power Hero Programme (third-party demand response aggregators).\
 
 
 {% hint style="info" %}

@@ -14,7 +14,7 @@ in demand while at the same time having to manage a reduction in the yield of th
 
 Alongside this, significant focus is being placed, over the next 10 years, on expanding the City’s sanitation infrastructure to absorb new growth in households and businesses, and to transition Cape Town to a water-sensitive city with investments into catchments and stormwater infrastructure.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Figure 10: Scale and timing of the New Water Strategy</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Figure 10: Scale and timing of the New Water Strategy</p></figcaption></figure>
 
 The Water and Sanitation Directorate plans to extend its capital spending increases up to 2026, dropping annually thereafter. The majority of planned capital projects (93%) relate to new and upgrade projects linked to the New Water Plan (alternative water sources, including groundwater, wastewater reuse and desalination, to supplement the city’s existing water supply) and the bulk water augmentation scheme (BWAS).
 
@@ -25,11 +25,13 @@ Almost all (99%) of the planned ‘refurbishment and replacement’ projects rel
 Of the projects under the New Water Plan, the following are likely to come online soonest, and once online will provide 46 MlD of water, hence contributing to the resilience of\
 the water supply system towards the 99,5% assurance of supply target. See annexure C:9 for a full list of projects.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Figure 11: The Water and Sanitation Directorate’s total budgeted capital expenditure for the 10-year period from 2022 to 2031 (as at 4 May 2022)</p></figcaption></figure>
 
 The BWAS aims to (a) meet peak growth in water demand and (b) mitigate significant risk to the security of water supply. The BWAS is a gravity scheme that can be fed from the Berg River Dam or from the Theewaterskloof Dam (see annexures C:10 and C:11 for further details). A total of 28% of new and upgrade projects in the next 10 years relate to the BWAS. This is in line with the City’s plans to improve security of bulk water supply.
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ## Bulk water reservoirs
 

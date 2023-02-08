@@ -6,7 +6,7 @@ NMT forms part of their journey) as well as a viable and implementable plan of a
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Figure 15: Urban Mobility integrated portfolio expenditure over the 10-year period from 2022 to 2031</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Figure 16: Phase 2A of the MyCiTi BRT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption><p>Figure 16: Phase 2A of the MyCiTi BRT</p></figcaption></figure>
 
 ## Public transport
 

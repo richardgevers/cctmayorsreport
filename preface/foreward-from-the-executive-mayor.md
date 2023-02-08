@@ -1,6 +1,6 @@
 # Foreward from the Executive Mayor
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p>Geordin Hill-Lewis - CCT Executive Mayor</p></figcaption></figure>
 
 Infrastructure enables productivity and productivity drives growth. We cannot build a Cape Town that offers residents hope of a more prosperous life without world class infrastructure. It must be at the forefront of the  City’s governance agenda.
 

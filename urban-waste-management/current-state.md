@@ -11,8 +11,4 @@ The City’s network of refuse transfer stations and drop-off facilities is resp
 facilities have sufficient capacity to handle Cape Town’s solid waste. However, the following factors are noted as constraints to operations:
 
 * Persistent infrastructure breakdowns (see annexure B:2) resulting in all four of the City’s refuse transfer stations missing operational targets
-* &#x20;Lack of access to rail for the transportation of solid
-
-waste to and from the City’s four refuse transfer stations. This prevents facilities from meeting their designed capacities and has major cost implications (R190 vs R90 per ton) for the City. In particular,
-
-the unavailability of the Dunoon/Montague Gardens rail line, due to unlawful land occupations near Dunoon, is identified as a major challenge.
+* &#x20;Lack of access to rail for the transportation of solid waste to and from the City’s four refuse transfer stations. This prevents facilities from meeting their designed capacities and has major cost implications (R190 vs R90 per ton) for the City. In particular, the unavailability of the Dunoon/Montague Gardens rail line, due to unlawful land occupations near Dunoon, is identified as a major challenge.

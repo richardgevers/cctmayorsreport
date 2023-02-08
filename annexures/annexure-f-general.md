@@ -10,7 +10,7 @@ A Stage Gate Review guideline has been developed to ensure understanding of, and
 
 Proper project and programme management implementation is vital to achieving specific outputs and outcomes that contribute to the desired results and objectives. The City has adopted a standard project lifecycle as shown in figure 17 that also indicates the Gate Review requirements after each stage.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Figure 17. City of Cape Town project lifecycle</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Figure 17. City of Cape Town project lifecycle</p></figcaption></figure>
 
 A similar approach applies to programmes that follow a specific programme lifecycle and that are appraised at specific stages. Projects are managed through the PPM application and created as individual items with assigned project managers.
 

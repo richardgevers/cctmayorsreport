@@ -7,3 +7,5 @@
 * Despite a clear demand for housing, there is a significant drop-off in human settlements projects (top structures) in the outer years of the portfolio. While this is due to the uncertainty surrounding grant funding, the City leadership has directed that the full pipeline of what is needed be captured in internal project management systems, so as not to impede long-term project planning across the City’s directorates. This will ensure that planning leads the budget process rather than the other way around. The City is thus actively working through the sector plan update to ensure a healthy pipeline of execution-ready human settlements projects across the 10-year portfolio, using a broad range of typologies as set out in the Human Settlements Strategy.
 
 It should be noted that public funding will only be able to account for a small portion of housing provision in the future. As such, the City’s investment focus has shifted to unlocking the potential for quality private housing supply in less formal areas.
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

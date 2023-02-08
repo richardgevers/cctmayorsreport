@@ -1,13 +1,11 @@
 # Future Outlook
 
-The City is expected to continue producing waste at\
-a consistent rate for the foreseeable future. Given that two landfills are constrained by limited airspace, there is pressure on the Urban Waste Management Directorate to implement measures that effectively divert waste.
+The City is expected to continue producing waste at a consistent rate for the foreseeable future. Given that two landfills are constrained by limited airspace, there is pressure on the Urban Waste Management Directorate to implement measures that effectively divert waste.
 
 The following trends are noted in the Urban Waste Management Directorate’s planned capital spending over the next 10 years:
 
 * Total capital spending increases consistently for the first eight years and drops considerably thereafter due to fewer planned ‘new and upgrade’ projects in the outer years.
-* A total of 98% of planned capital spending relates to ‘new and upgrade’ capital expenditure. This\
-  is largely due to the capital requirements for the construction of a regional landfill site.
+* A total of 98% of planned capital spending relates to ‘new and upgrade’ capital expenditure. This is largely due to the capital requirements for the construction of a regional landfill site.
 
 <figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption><p>Figure 6: Solid Waste capex over the 10-year period from 2022 to 2031 (as extracted from SAP PPM on 4 May 2022)</p></figcaption></figure>
 
@@ -20,13 +18,11 @@ In addition to the need to reduce the city’s waste consumption, landfill airsp
 The City is in the process of planning for such a regional landfill site, which will provide the City with a projected 35 additional years of landfill airspace. A candidate site has been identified in Kalbaskraal and the establishment of the site is projected to cost R300 million. The process will also need to include an extensive Environmental Impact Assessment (EIA). At the time of writing this report, the EIA for the site was in the process of submission with optimistic estimates forecasting approval in 18 months.
 
 A significant portion (21%) of the Urban Waste Management Directorate’s planned spending on ‘new and upgrade’ initiatives over the next 10 years relates\
-to the development of landfill infrastructure, including provision for the procurement of the regional landfill site in 2027/28. Alongside the development of landfill infrastructure, the Urban Waste Management Directorate aims to improve the City’s waste minimisation efforts, thereby slowing the rate\
-of disposal at the City’s landfill sites in the future.
+to the development of landfill infrastructure, including provision for the procurement of the regional landfill site in 2027/28. Alongside the development of landfill infrastructure, the Urban Waste Management Directorate aims to improve the City’s waste minimisation efforts, thereby slowing the rate of disposal at the City’s landfill sites in the future.
 
 ## Collections, cleansing, disposals and drop-offs
 
-The need to divert waste from the City’s landfills\
-is expected to increase with the imminent closure of Coastal Park as well as the continued extension and expansion of basic service delivery to informal settlements. In addition, the following factors are expected to inform the infrastructure needs of the City’s drop-off facilities:
+The need to divert waste from the City’s landfills is expected to increase with the imminent closure of Coastal Park as well as the continued extension and expansion of basic service delivery to informal settlements. In addition, the following factors are expected to inform the infrastructure needs of the City’s drop-off facilities:
 
 * A proposed City amendment to the service radius of drop-off sites will see the radius decrease from 7 km to 3 km. This will require additional drop-offs to be established in Philippi, Mitchells Plain, Khayelitsha, Bellville and Durbanville and will necessitate waste disposal improvements in informal settlements. An estimated R600 million has been committed to develop new drop-off facilities.
 * Storage capacity at drop-off sites is expected to come under strain as recycling efforts increase the volume of useable waste in the city. This will place pressure on the City to promote waste beneficiation and the implementation of a circular economy action plan in order to put usable waste to good use.

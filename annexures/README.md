@@ -1,4 +1,11 @@
+---
+cover: ../.gitbook/assets/Screenshot 2023-02-08 at 08.43.47.png
+coverY: 0
+---
+
 # Annexures
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="annexure-a-energy.md" %}
 [annexure-a-energy.md](annexure-a-energy.md)

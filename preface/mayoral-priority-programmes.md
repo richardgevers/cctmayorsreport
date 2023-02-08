@@ -1,6 +1,6 @@
 # Mayoral Priority Programmes
 
-1\. Sanitation and inland water quality The programme aims to:
+1. Sanitation and inland water quality The programme aims to:
 
 * prioritise critical wastewater treatment works (WWTWs) upgrades
 * improve the performance of wastewater treatment facilities\
