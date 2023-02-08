@@ -2,7 +2,7 @@
 
 ## **Distribution network**
 
-The state of electricity distribution network infrastructure in the City’s municipal border as at January 2022 is as follows (see annexure A:1 for more details):
+The state of electricity distribution network infrastructure in the City’s municipal border as at January 2022 is as follows (see [annexure A:1](../annexures/annexure-a-energy.md#annexure-a-1-state-of-main-substation-non-firm-capacity-city-and-eskom-owned) for more details):
 
 •       One area in the City supply area is reliant on infrastructure that has reached over-firm capacity and requires intervention. The firm capacity of this network was exceeded for only 34 (non-consecutive) hours in 2021 (i.e. less than 1% of the time).
 
@@ -22,4 +22,6 @@ New developments and/or new connections will nonetheless be considered on a case
 
 ## Generation
 
-The City’s current generation assets comprise Steenbras hydro pumped storage (180 MW, 2 200 MWh) and two small gas turbines (78 MW), which are usually only run in emergencies. Steenbras can be operated in a range of ways depending on the objective, which normally is a reduction in maximum demand or energy arbitrage.11 Steenbras has also proven to be highly beneficial in limiting the stages of load-shedding experienced by City-supplied customers. The City’s generation facilities are all operational, but require varying levels of refurbishment to ensure operational quality and extension of life (see annexure A:2 and A:8 for further details).
+The City’s current generation assets comprise Steenbras hydro pumped storage (180 MW, 2 200 MWh) and two small gas turbines (78 MW), which are usually only run in emergencies. Steenbras can be operated in a range of ways depending on the objective, which normally is a reduction in maximum demand or energy arbitrage.\[**footnote 1**] Steenbras has also proven to be highly beneficial in limiting the stages of load-shedding experienced by City-supplied customers. The City’s generation facilities are all operational, but require varying levels of refurbishment to ensure operational quality and extension of life (see [annexure A:2](../annexures/annexure-a-energy.md#annexure-a-2-state-of-city-owned-generation-units) and [A:8](../annexures/annexure-a-energy.md#annexure-a-8-energy-directorates-list-of-new-and-upgrade-initiatives-for-the-period-2022-to-2031) for further details).
+
+_\[1] Source: State of Energy and Carbon Report (2022, pg. 60)._

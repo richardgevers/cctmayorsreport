@@ -8,7 +8,7 @@ The City is thus prohibited by law from supplying, operating or responding to el
 
 This City’s distribution network is supplied from the national grid via 37 points of delivery. Main substations transform the bulk power received at voltages of 132 kV, 66 kV and 33 kV to lower voltages (11 kV) for further distribution. A total of 76 main substations and 44 switching stations service the City’s supply area. Managing this network and supply is the primary responsibility of the City’s Energy Directorate.
 
-Despite a very high (97,7% ) \[1] degree of electrification in the Cape Town metropolitan area, and the City’s provision of an energy services social package to low-income households – including subsidised grid connections, Lifeline and Home Light tariff 9 and Free Basic Electricity (FBE) allocations – the most vulnerable households remain largely in a position of energy poverty.
+Despite a very high (97,7% ) \[**footnote 1**] degree of electrification in the Cape Town metropolitan area, and the City’s provision of an energy services social package to low-income households – including subsidised grid connections, Lifeline and Home Light tariff \[**footnote 2**] and Free Basic Electricity (FBE) allocations – the most vulnerable households remain largely in a position of energy poverty.
 
 Grid electrification can take up to three years from planning to implementation, leaving residents with an extended period during which they are without a formal electricity supply. Furthermore, grid electrification is not possible in informal settlements on encumbered land such as flood-risk zones, servitudes, and private land (unless permission is obtained from the private owner).
 
@@ -59,6 +59,8 @@ Currently, the City is able to shield residents from up to two stages of load-sh
 
 <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption><p>Figure 2: Amount of electricity load-shed nationally, 2007 to October 2022</p></figcaption></figure>
 
-\[1] Cape Town State of Energy and Carbon Report (2022), pg.100. 9 Eskom 2022 Tariff booklet and CCT.
+_\[1] Cape Town State of Energy and Carbon Report (2022), pg.100. 9 Eskom 2022 Tariff booklet and CCT._
+
+_\[2] Eskom 2022 Tariff booklet and CCT._
 
 [^1]: **Wheeling** refers to the financial transactions representing the transportation of third-party electrical energy (kWh) over the municipal/Eskom distribution network. It allows a third-party supplier to sell this electrical energy to a customer at their point of supply. The sale is governed by a bilateral power purchase agreement (PPA) that exists within a market environment, as opposed to a regulated environment, as the price of the energy is set between the parties and not by the City/Eskom or the National Energy Regulator of South Africa (Nersa).

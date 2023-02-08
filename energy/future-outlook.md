@@ -32,9 +32,9 @@ The following future scenarios can be expected with regard to electricity distri
 
     the currently over-firm Philippi MTS have been successful to date, it is vital that Eskom delivers the following two projects to alleviate the load at the Philippi MTS:
 
-    1\. The new Erica main transmission substation – scheduled for commercial operation in 202812
+    1\. The new Erica main transmission substation – scheduled for commercial operation in 2028 \[**footnote 1**]
 
-    2\. The Philippi substation extension project – scheduled for commercial operation in 202613
+    2\. The Philippi substation extension project – scheduled for commercial operation in 2026 \[**footnote 2**]&#x20;
 
     ‘System equipment and replacement’ is one of the two largest spending areas for planned refurbishment and replacement energy projects over the next 10 years. These projects are spatially situated across the City’s distribution network.
 
@@ -52,3 +52,7 @@ to do so in order to reduce its reliance on the national electricity grid and me
 ‘Electricity generation’ makes up the second largest spending item in planned refurbishment and replacement projects over the next 10 years. These projects address the refurbishment and replacement needs at the City’s three existing generating facilities of Steenbras, Roggebaai and Athlone (see annexures A:2 and A:8 for further details).
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Figure 5: Electricity capacity and capital projects - incl. Eskom (status as at December 2022)</p></figcaption></figure>
+
+\[1] Source: Eskom’s Transmission Development Plan 2022–2031.&#x20;
+
+\[2] Source: Eskom’s Transmission Development Plan 2022–2031.

@@ -46,14 +46,14 @@ A relatively small provision of R2,75 million has been committed to the transfor
 
 The prevalence of backyard dwellers will increase in line with the growing need for housing in the city. Ultimately, it is the City’s desire that all backyarders should have access to water, sanitation, and electricity, with a priority focus on backyarders in City-owned rental housing. It is the City’s intent to establish a policy framework for the administration of backyard structures and to put mechanisms in place for basic service access for backyarders. The City has adopted the following two backyarder programmes:
 
-1. Backyard dwelling service support project (City public rental stock): The City will prioritise the connection of these households to basic services infrastructure, including electricity, water and sanitation connections.
-2. Backyard dwelling service support project (private properties):15 The City proactively plans for density and the upgrades of infrastructure in these areas to prevent infrastructure failures and ensure a healthy urban environment. In addition, the City works to ensure that each property is connected to water, sanitation, and electricity, with the property owner carrying the responsibility for the further connections and infrastructure required on the property to provide services to additional dwellings.
+1. **Backyard dwelling service support project (City public rental stock):** The City will prioritise the connection of these households to basic services infrastructure, including electricity, water and sanitation connections.
+2. **Backyard dwelling service support project (private properties):** \[**footnote 1**]The City proactively plans for density and the upgrades of infrastructure in these areas to prevent infrastructure failures and ensure a healthy urban environment. In addition, the City works to ensure that each property is connected to water, sanitation, and electricity, with the property owner carrying the responsibility for the further connections and infrastructure required on the property to provide services to additional dwellings.
 
 {% hint style="info" %}
 Backyarder refers to a person occupying a backyard residential unit under some type of rental agreement with the main homeowner or City tenant. The backyard unit is a structure constructed of any material, intended or used for human habitation, on the same residential property as a main dwelling, built according to approved plans (formal) or no approved plans (informal backyard), and is therefore not categorised as an informal settlement.
 {% endhint %}
 
-Informal settlements
+## Informal settlements
 
 Population growth, in-migration and poor socioeconomic conditions are expected to contribute to the growth in informal settlements in Cape Town. This requires that the City works with informality using a dual approach:
 
@@ -78,3 +78,5 @@ A **serviced site** refers to a plot or site demarcated in a general plan, with 
 **The Managed Settlement Programme** is a greenfield site prepared for rapid occupation with shared services initially, but with the potential to upgrade\
 to individual serviced sites over time. The owner constructs the top structure.
 {% endhint %}
+
+_\[**1**] This is an IDP project for which Water and Sanitation, Energy and Urban Waste Management are listed as the responsible directorates._

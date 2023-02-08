@@ -70,7 +70,7 @@ Cape Town has 487 sewerage pump stations and\
 
 * In areas of high density and increasing informality, frequent blocking of sewers with foreign objects resulted in sewer spills.
 * A total of 25 of the City’s pump stations have insufficient capacity (see annexure C:7 for further details).
-* The Rietvlei pump station, upstream of the Bellville WWTWs, requires upgrading of its rising main and gravity system14 to accommodate developments in the Bellville WWTWs catchment. This project will take approximately three to four years to complete.
+* The Rietvlei pump station, upstream of the Bellville WWTWs, requires upgrading of its rising main and gravity system \[**footnote 1**] to accommodate developments in the Bellville WWTWs catchment. This project will take approximately three to four years to complete.
 
 Challenges to maintenance in the sewerage reticulation network are mainly due to the following:
 
@@ -96,3 +96,5 @@ to effectively manage flooding, pollution and inform the Water and Sanitation Di
 * The catchment area’s bulk minor stormwater drainage system (600 mm diameter and above) is noted as being under pressure.
 
 Approximately 78,4% of the underground drainage system presents a high risk to water quality in the catchment as the system conveys illicit polluted discharges to the rivers. Illicit discharges include flow from informal settlements, backyarder dwellings, sewer reticulation and pump station spills that occur either directly into the stormwater system or are transported there via roads.
+
+\[1] _In certain parts of the system, water moves through pipes by means of gravity, but in other parts where pipes run vertically, water needs to be pumped via a pump station in order to move through the system._

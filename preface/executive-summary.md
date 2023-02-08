@@ -66,9 +66,9 @@ The findings of the assessment of the planned capital projects over the next 10 
 
 This report also outlines findings that, in several cases, infrastructure owned and operated by other spheres of government has a direct negative impact on the City’s bulk infrastructure in the five directorates assessed. The City will drive an active programme of advocacy over the next five years and will include the following infrastructure pressure points:
 
-•       The new Erica main transmission substation – scheduled for commercial operation in 2028\[1]
+•       The new Erica main transmission substation – scheduled for commercial operation in 2028 \[**footnote 1**]
 
-•       The Philippi substation extension project – scheduled for commercial operation in 2026\[2]
+•       The Philippi substation extension project – scheduled for commercial operation in 2026 \[**footnote 2**]
 
 •       Access to rail for waste haulage
 
@@ -79,6 +79,6 @@ Infrastructure project preparation and spending are a significant challenge acro
 
 Every year, able to grow its capital budget annually, and able to increase the potential for projects to be brought forward should additional funding become available.
 
-\[1] Source: Eskom’s Transmission Development Plan 2022–2031.
+_\[1] Source: Eskom’s Transmission Development Plan 2022–2031._
 
-\[2] Source: Eskom’s Transmission Development Plan 2022–2031.
+_\[2] Source: Eskom’s Transmission Development Plan 2022–2031._
