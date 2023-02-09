@@ -13,3 +13,5 @@ description: December 2022
 **DISCLAIMER: Images have been used without permission and will be taken down on request.**
 
 **Content is taken from the** [**City of Cape Town**](https://www.capetown.gov.za/) **website under these** [**Terms of Use**](https://www.capetown.gov.za/General/Terms-of-use) **and this** [**Privacy Policy**](https://www.capetown.gov.za/General/Privacy)****
+
+****[**Here**](https://github.com/richardgevers/cctmayorsreport) **is the link to the GitHub repo.**
